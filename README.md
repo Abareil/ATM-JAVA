@@ -2,7 +2,6 @@
 Ejercicio de ATM con JAVA. 
 Consigna:
 
-TP Final – Programación Avanzada
 Documento de requerimientos
 Un banco local pretende instalar una nueva máquina de cajero automático (ATM),
 para permitir a los usuarios (es decir, los clientes del banco) realizar transacciones
